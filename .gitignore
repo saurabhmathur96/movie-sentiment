@@ -1,0 +1,5 @@
+data/aclImdb/
+data/aclImdb_v1.tar.gz
+
+models/convnet.h5
+models/glove.6B.100d.txt
